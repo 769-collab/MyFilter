@@ -1,91 +1,35 @@
 ! Title: My Filter
 
-! itest.5ch.net
-itest.5ch.io##div.float-nav_wrapper
-
 ! jin115.com
 ||resize.blogsys.jp/*/crop1/140x140/https://livedoor.blogimg.jp/jin115/*$image
-jin115.com##aside.section-box
-
-! sakamichijyoho46.blog.jp
-sakamichijyoho46.blog.jp##.content > aside.section-box
-
-! applion.jp
-applion.jp##.fixed_menu
 
 ! androidappsaleinfo.blog.fc2.com
 ||blog-imgs-133-origin.fc2.com/a/n/d/androidappsaleinfo/twitter_button.png$image
-androidappsaleinfo.blog.fc2.com##.entry_more_link
-androidappsaleinfo.blog.fc2.com##.fc2_footer
-androidappsaleinfo.blog.fc2.com##.head-style > .largeimage-land
+||blogthumbnail.fc2.com/r72/1*/a/n/d/androidappsaleinfo/30*-icon.png$image
 
 ! www.coin-laundry.co.jp
 ||www.coin-laundry.co.jp/userp/view_interface.php?shopId=11000854&type=outer&className=AilsShopDetailShopImage$image
 ||www.coin-laundry.co.jp/userp/view_interface.php?shopId=11000854&type=inner&className=AilsShopDetailShopImage$image
 ||www.google.com/maps/embed/v1/place$subdocument
-www.coin-laundry.co.jp###pbBlock148299
-www.coin-laundry.co.jp###pbBlock148300
 
 ! detail.chiebukuro.yahoo.co.jp
 ||s.yimg.jp/images/ks/m/img/tlimg/207*_0*.png$image
 ||s.yimg.jp/images/ks/m/img/tlimg/208*_0*.png$image
 ||chie-pctr.c.yimg.jp/dk/iwiz-chie/que-*$image
-detail.chiebukuro.yahoo.co.jp##.ClapLv2ListItem_Chie-ListItem__ClearThumbnail__1Je0x
 
 ! wikiwiki.jp
 ! なんJ AdGuard部 Wiki*
 ||cdn.wikiwiki.jp/to/w/common/assets/dist/20f26b8ecac0dfab726d.png$image
-wikiwiki.jp##div.clearfix.container:nth-of-type(1)
-
-! jp.daisonet.com
-jp.daisonet.com##.ul-widget-hide.mobile-layout.ul-widget-main-window
-jp.daisonet.com###page_top
-
-! www.amazon.co.jp
-www.amazon.co.jp##.maple-banner
-www.amazon.co.jp##.sc-java-remote-feature.a-text-center.a-spacing-medium.a-section
-www.amazon.co.jp##.mission-container.a-section
-www.amazon.co.jp###nav-app-banner-container
-! 登録ボタンを非表示
-www.amazon.co.jp###prime-signup-form > span:nth-of-type(1)
-www.amazon.co.jp###prime-spc-stripe-recommendations
 
 ! www3.nhk.or.jp
-www3.nhk.or.jp##.bottom_optout_announce
 ||www3.nhk.or.jp/news/weather/weather_movie.html$subdocument
 
 ! www.nhk.or.jp
-www.nhk.or.jp##.video-components.nhk-news-weather-movie
-www.nhk.or.jp##.news-web-article-list
-www.nhk.or.jp##.video-components.short-movies
-www.nhk.or.jp##.basic-article-list
 ||www.nhk.or.jp/kishou-saigai/static/assets/bg_sp_200_night.png$image
 ||www.nhk.or.jp/kishou-saigai/static/assets/bg_sp_300_night.png$image
 ||www.nhk.or.jp/kishou-saigai/static/assets/bg_sp_300.png$image
 
-! blog.livedoor.jp
-blog.livedoor.jp###article-contents > b
-blog.livedoor.jp##.content > nav.section-box
-
-! jp.xhamster.com
-jp.xhamster.com##.wrapper-dab84
-
 ! www.iwara.tv
 ||i.iwara.tv/image/original/691c0c45-4ab2-4915-a41d-98fb58b0c440/691c0c45-4ab2-4915-a41d-98fb58b0c440.webp$image
 ||i.iwara.tv/image/profileHeader/*.jpg$image
-www.iwara.tv##.page-videoList__showFilters
 ||news.iwara.tv/wp-content/uploads/sites/35/2026/03/mikoto.webp$image
-
-! weathernews.jp
-weathernews.jp##section.dmenu-non.sp:nth-of-type(3)
-
-! x.com の backdrop-filter を無効化（サイト全体）
-x.com##html:style(backdrop-filter: none !important;)
-x.com##*:style(backdrop-filter: none !important;)
-
-! 以降、更新頻度の高い物
-! androidappsaleinfo.blog.fc2.com
-||blogthumbnail.fc2.com/r72/1*/a/n/d/androidappsaleinfo/30*-icon.png$image
-
-! https://x.com
-x.com##.r-12vffkv.r-1p0dtai.r-1xcajam.r-1d2f490.r-zchlnj.r-aqfbo4.css-175oi2r
