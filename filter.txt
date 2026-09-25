@@ -1,4 +1,4 @@
-! Title: My Filter
+! Title: マイフィルタ
 
 ! itest.5ch.net
 itest.5ch.io##div.float-nav_wrapper
