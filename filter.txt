@@ -89,5 +89,5 @@ x.com##*:style(backdrop-filter: none !important;)
 x.com##.r-12vffkv.r-1p0dtai.r-1xcajam.r-1d2f490.r-zchlnj.r-aqfbo4.css-175oi2r
 
 ! google.com タブの非表示
-google.com##a:has-text(書籍)
-google.com##a:has-text(地図)
+www.google.com##a:-abp-has(書籍)
+www.google.com##a:-abp-has(地図)
