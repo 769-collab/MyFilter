@@ -88,5 +88,5 @@ x.com##*:style(backdrop-filter: none !important;)
 ! https://x.com
 x.com##.r-12vffkv.r-1p0dtai.r-1xcajam.r-1d2f490.r-zchlnj.r-aqfbo4.css-175oi2r
 
-google.com##a[href*="maps"]
-google.com##a[href*="books"]
+google.com##a:has-text(地図)
+google.com##a:has-text(書籍)
