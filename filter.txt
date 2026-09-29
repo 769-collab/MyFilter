@@ -13,6 +13,7 @@ sakamichijyoho46.blog.jp##.content > aside.section-box
 
 ! applion.jp
 applion.jp##.fixed_menu
+applion.jp##div:nth-of-type(5) > div > div
 
 ! androidappsaleinfo.blog.fc2.com
 ||blog-imgs-133-origin.fc2.com/a/n/d/androidappsaleinfo/twitter_button.png$image
