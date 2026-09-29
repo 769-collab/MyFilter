@@ -35,6 +35,6 @@
 ||news.iwara.tv/wp-content/uploads/sites/35/2026/03/mikoto.webp$image
 ||saberlion.com/images/3*-01.jpg$image
 
-www.google.com##a[href*="tbm=map"]
-www.google.com##a[href*="tbm=bks"]
-www.google.com##a[href*="tbm=lcl"]
+www.google.com##a[href*="maps"]
+www.google.com##a[href*="books"]
+
