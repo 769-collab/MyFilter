@@ -36,4 +36,3 @@
 ||saberlion.com/images/3*-01.jpg$image
 
 www.google.com##a[href*="maps"]
-www.google.com##a[href*="book"]
