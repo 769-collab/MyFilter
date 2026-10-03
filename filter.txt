@@ -10,7 +10,7 @@ jin115.com##.article_mid_v2
 
 ! sakamichijyoho46.blog.jp
 sakamichijyoho46.blog.jp##.content > aside.section-box
-||m.media-amazon.com/images/I/*.jpg$image
+||m.media-amazon.com/images/I/*L._SL1000_.jpg$image
 ||cdn.jp1media.com/src/img/*$image
 
 
