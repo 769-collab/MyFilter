@@ -89,5 +89,5 @@ google.com##a:has-text(地図)
 
 ! 以降、更新頻度の高い物
 ! androidappsaleinfo.blog.fc2.com
-||blogthumbnail.fc2.com/r72/1*/a/n/d/androidappsaleinfo/30*-icon.png$image
+||blogthumbnail.fc2.com/r72/1*/a/n/d/androidappsaleinfo/3*-icon.png
 ||saberlion.com/images/3*-01.jpg$image
