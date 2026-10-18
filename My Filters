@@ -72,15 +72,6 @@ www.nhk.or.jp##.basic-article-list
 blog.livedoor.jp###article-contents > b
 blog.livedoor.jp##.content > nav.section-box
 
-! jp.xhamster.com
-jp.xhamster.com##.wrapper-dab84
-
-! www.iwara.tv
-||i.iwara.tv/image/original/691c0c45-4ab2-4915-a41d-98fb58b0c440/691c0c45-4ab2-4915-a41d-98fb58b0c440.webp$image
-||i.iwara.tv/image/profileHeader/*.jpg$image
-www.iwara.tv##.page-videoList__showFilters
-||news.iwara.tv/wp-content/uploads/sites/35/2026/03/mikoto.webp$image
-
 ! weathernews.jp
 weathernews.jp##section.dmenu-non.sp:nth-of-type(3)
 
