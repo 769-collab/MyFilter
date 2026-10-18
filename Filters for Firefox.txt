@@ -84,8 +84,8 @@ x.com##html:style(backdrop-filter: none !important;)
 x.com##*:style(backdrop-filter: none !important;)
 
 ! google.com タブの非表示
-google.com##a:has-text(書籍)
-google.com##a:has-text(地図)
+www.google.com##a[href*="maps"]
+www.google.com##a[href*="udm=36"]
 
 ! 以降、更新頻度の高い物
 ! androidappsaleinfo.blog.fc2.com
