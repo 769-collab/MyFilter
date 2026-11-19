@@ -85,6 +85,7 @@ www.instagram.com##.x1355qak.xh8yej3.x13vifvy.xixxii4.xl56j7k.x5yr21d.x78zum5.x1
 ! google.com タブの非表示
 www.google.com##a[href*="maps"]
 www.google.com##a[href*="udm=36"]
+www.google.com##a[href*="udm=books"]
 
 ! 以降、更新頻度の高い物
 ! androidappsaleinfo.blog.fc2.com
